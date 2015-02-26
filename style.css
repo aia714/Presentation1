@@ -1,0 +1,14 @@
+
+body {
+	background-color:#D1E3E8;
+	font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
+}
+
+p {
+    font-style : italic;
+}
+
+h1 {
+    color : blue ;
+    text-align: center;
+}
